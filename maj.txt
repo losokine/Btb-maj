@@ -3,6 +3,6 @@
 # 2. Ecris le mot pour Vivi apres la ligne "note:", sur autant de lignes que tu veux
 # Les lignes commencant par # sont ignorees par l'application
 
-version: 2.2.38
+version: 2.2.37
 lien: https://raw.githubusercontent.com/losokine/Btb-maj/main/back-to-bones-maj-v2.2.38-VIVI.js
 lien-lolo: https://raw.githubusercontent.com/losokine/Btb-maj/main/back-to-bones-maj-v2.2.38-LOLO.js
