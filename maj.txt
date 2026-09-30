@@ -1,0 +1,8 @@
+# Fichier de mise a jour Back to Bones
+# 1. Change le numero apres "version:" quand une nouvelle version est prete
+# 2. Ecris le mot pour Vivi apres la ligne "note:", sur autant de lignes que tu veux
+# Les lignes commencant par # sont ignorees par l'application
+
+version: 2.2.36
+lien:
+note:
