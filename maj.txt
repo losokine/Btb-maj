@@ -6,4 +6,6 @@
 version: 2.2.38
 lien: https://raw.githubusercontent.com/losokine/Btb-maj/main/back-to-bones-maj-v2.2.38-VIVI.js
 lien-lolo: https://raw.githubusercontent.com/losokine/Btb-maj/main/back-to-bones-maj-v2.2.38-LOLO.js
-note: Coucou ma Vivi!!! Petite correction pour l'onglet activité... Merci de m'avoir écouté me plaindre de ma condition ce midi des bisous d'amours fort d'amitié 
+note: Coucou ma Vivi!!! Petite correction pour l'onglet activité...
+Merci de m'avoir écouté me plaindre de ma condition ce midi des bisous d'amours fort d'amitié <3
+J'espère que le rendez-vous avec Paul s'est bien passé quand même 
