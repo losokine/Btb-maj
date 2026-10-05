@@ -1,9 +1,4 @@
-# Fichier de mise a jour Back to Bones
-# 1. Change le numero apres "version:" quand une nouvelle version est prete
-# 2. Ecris le mot pour Vivi apres la ligne "note:", sur autant de lignes que tu veux
-# Les lignes commencant par # sont ignorees par l'application
-
-version: 2.2.41
-lien: https://raw.githubusercontent.com/losokine/Btb-maj/main/back-to-bones-maj-v2.2.41-VIVI.js
-lien-lolo: https://raw.githubusercontent.com/losokine/Btb-maj/main/back-to-bones-maj-v2.2.41-LOLO.js
-taille: 1406150
+version: 2.2.42
+lien: https://raw.githubusercontent.com/losokine/Btb-maj/main/back-to-bones-maj-v2.2.42-VIVI.js
+lien-lolo: https://raw.githubusercontent.com/losokine/Btb-maj/main/back-to-bones-maj-v2.2.42-LOLO.js
+taille: 1408279
