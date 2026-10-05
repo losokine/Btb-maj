@@ -1,4 +1,4 @@
-version: 2.2.44
-lien: https://raw.githubusercontent.com/losokine/Btb-maj/main/back-to-bones-maj-v2.2.44-VIVI.js
-lien-lolo: https://raw.githubusercontent.com/losokine/Btb-maj/main/back-to-bones-maj-v2.2.44-LOLO.js
-taille: 1409096
+version: 2.2.46
+lien: https://raw.githubusercontent.com/losokine/Btb-maj/main/back-to-bones-maj-v2.2.46-VIVI.js
+lien-lolo: https://raw.githubusercontent.com/losokine/Btb-maj/main/back-to-bones-maj-v2.2.46-LOLO.js
+taille: 1409083
