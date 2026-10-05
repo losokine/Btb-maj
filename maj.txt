@@ -6,7 +6,4 @@
 version: 2.2.41
 lien: https://raw.githubusercontent.com/losokine/Btb-maj/main/back-to-bones-maj-v2.2.41-VIVI.js
 lien-lolo: https://raw.githubusercontent.com/losokine/Btb-maj/main/back-to-bones-maj-v2.2.41-LOLO.js
-taille: 1403673
-note:
-Coucou Vivi, celle-ci rend les mises a jour plus claires. Clique sur Telecharger,
-puis suis les trois etapes qui s'affichent dans Parametres.
+taille: 1406150
