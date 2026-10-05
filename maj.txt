@@ -3,9 +3,9 @@
 # 2. Ecris le mot pour Vivi apres la ligne "note:", sur autant de lignes que tu veux
 # Les lignes commencant par # sont ignorees par l'application
 
-version: 2.2.39
-lien: https://raw.githubusercontent.com/losokine/Btb-maj/main/back-to-bones-maj-v2.2.39-VIVI.js
-lien-lolo: https://raw.githubusercontent.com/losokine/Btb-maj/main/back-to-bones-maj-v2.2.39-LOLO.js
+version: 2.2.40
+lien: https://raw.githubusercontent.com/losokine/Btb-maj/main/back-to-bones-maj-v2.2.40-VIVI.js
+lien-lolo: https://raw.githubusercontent.com/losokine/Btb-maj/main/back-to-bones-maj-v2.2.40-LOLO.js
 taille: 1403673
 note:
 Coucou Vivi, celle-ci rend les mises a jour plus claires. Clique sur Telecharger,
